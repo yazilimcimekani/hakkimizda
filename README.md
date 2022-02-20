@@ -46,3 +46,13 @@ Seni de aramızda görmekten memnuniyet duyarız.
 9. ToS İlkelerine Uyun.
 
 > Discordun https://discord.com/terms ilkelerine uymalısınız. Ayrıyetten 13 yaş altı kullanıcılar Discord Kuralları gereği sunucumuzda bulunamaz.
+
+## Bağlantılar
+
+- [Discord](https://discord.gg/yazilimcimekani)
+- [yazilimcimekani.com](https://yazilimcimekani.com)
+- [GitHub (Sadık Turan)](https://github.com/sadikturan)
+- [Udemy (Sadık Turan)](https://udemy.com/user/sadikturan)
+- [YouTube (Sadık Turan)](https://www.youtube.com/channel/UCSSAUgEJcooorKS9Ty4uoPA)
+- [Twitch](https://twitch.tv/yazilimcimekani)
+- YouTube (Yazılımcı Mekanı) yakında
