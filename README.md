@@ -50,6 +50,7 @@ Seni de aramızda görmekten memnuniyet duyarız.
 ## Bağlantılar
 
 - [Discord](https://discord.gg/yazilimcimekani)
+- [Telegram](https://t.me/sadikturancom)
 - [yazilimcimekani.com](https://yazilimcimekani.com)
 - [GitHub (Sadık Turan)](https://github.com/sadikturan)
 - [Udemy (Sadık Turan)](https://udemy.com/user/sadikturan)
