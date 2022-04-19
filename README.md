@@ -49,11 +49,22 @@ Seni de aramızda görmekten memnuniyet duyarız.
 
 ## Bağlantılar
 
-- [Discord](https://discord.gg/yazilimcimekani)
+- [Discord](https://discord.gg/YcN7wc4m)
+
 - [Telegram](https://t.me/sadikturancom)
-- [yazilimcimekani.com](https://yazilimcimekani.com)
+
+- [Instagram](https://www.instagram.com/yazilimci_mekani)
+
+- [Twitter](https://twitter.com/yazilimci_mekan)
+
+- [Yazılımcı Mekanı | Portal](https://yazilimcimekani.com)
+
+- [Yazılımcı Mekanı | Radyo](https://radyo.yazilimcimekani.com)
+
 - [GitHub (Sadık Turan)](https://github.com/sadikturan)
+
 - [Udemy (Sadık Turan)](https://udemy.com/user/sadikturan)
+
 - [YouTube (Sadık Turan)](https://www.youtube.com/channel/UCSSAUgEJcooorKS9Ty4uoPA)
-- [Twitch](https://twitch.tv/yazilimcimekani)
+
 - YouTube (Yazılımcı Mekanı) yakında
